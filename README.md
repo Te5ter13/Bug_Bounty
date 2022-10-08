@@ -1,2 +1,1 @@
-# Bug_Bounty
-# Bug_Bounty
+## Basic Web vulnerability exploitation and automating the exploitation using python
