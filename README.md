@@ -1,1 +1,1 @@
-## Basic Web vulnerability exploitation and automating the exploitation using python
+## Basic Web vulnerability exploitation and automating  using python
